@@ -677,3 +677,10 @@ details[open] .question_p {
         position: relative;
     }
 }
+
+@media screen and (max-width: 380px) {
+    h1 {
+        font-size: 46px;
+        line-height: 64px;
+    }
+}
